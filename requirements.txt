@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-yfinance
-pandas
-numpy
-ta
-requests
-python-multipart
